@@ -3,4 +3,6 @@
 ### Data set:
 - Andy Samberg
 - Daniel Radcliffe
+- Cillian Murphy
+- Benedict Cumberbatch
 - 
