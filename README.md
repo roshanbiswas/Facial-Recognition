@@ -6,4 +6,3 @@
 - Cillian Murphy
 - Benedict Cumberbatch
 - Scarlett Johansson 
-- 
