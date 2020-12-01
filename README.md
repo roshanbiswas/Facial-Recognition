@@ -7,3 +7,4 @@
 - Benedict Cumberbatch
 - Scarlett Johansson 
 - Emma Watson
+- Leonardo DiCaprio
